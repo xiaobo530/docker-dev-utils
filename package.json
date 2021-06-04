@@ -1,0 +1,23 @@
+{
+  "name": "functional-typescript-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaobo530/functional-typescript-practices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaobo530/functional-typescript-practices/issues"
+  },
+  "homepage": "https://github.com/xiaobo530/functional-typescript-practices#readme",
+  "dependencies": {
+    "@types/node": "^15.12.0",
+    "rxjs": "^7.1.0"
+  }
+}
